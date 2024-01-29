@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ------
-I'm now a fourth-year undergraduate student at School of Mathematical Sciences, Peking University.
+I'm now a fourth-year undergraduate student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
 
 News
 ------
