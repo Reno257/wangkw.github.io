@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This homepage is under construction.
+**This homepage is under construction.**
+
+About me
+------
+I'm now a fourth-year undergraduate student at School of Mathematical Sciences, Peking University.
+
+News
+------
+Waiting for the results of my applications. Enjoying my winter vacation now!
 
 For more info
 ------
