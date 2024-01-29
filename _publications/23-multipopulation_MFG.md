@@ -2,7 +2,7 @@
 title: "Unique determination of cost functions in a multipopulation mean field game model"
 collection: publications
 permalink: /publication/23-multipopulation_MFG
-excerpt: 
+excerpt: "A very nice collaboration experience with Prof. Kui Ren and Nathan Soedjak."
 date: 2023-12-04
 venue: 'arXiv'
 paperurl: 
