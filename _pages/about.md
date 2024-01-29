@@ -12,11 +12,11 @@ redirect_from:
 
 About me
 ------
-I'm now a fourth-year undergraduate student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
+I'm Kewei Wang (王可为), a fourth-year undergraduate student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/) now.
 
 News
 ------
-Waiting for the results of my applications. Enjoying my winter vacation now!
+Waiting for the results of my PhD applications. Enjoying the winter vacation now!
 
 For more info
 ------
