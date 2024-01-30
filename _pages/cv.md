@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My CV will be put [here](https://wang-kewei.github.io/cv/CV.pdf) when ready.
+My CV will be put [here](https://wang-kewei.github.io/files/CV.pdf) when ready.
