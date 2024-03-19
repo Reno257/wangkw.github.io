@@ -3,7 +3,7 @@ title: "Unique determination of cost functions in a multipopulation mean field g
 collection: publications
 permalink: /publication/23-multipopulation_MFG
 excerpt:
-author: Kui Ren, Nathan Soedjak, Kewei Wang
+author: Kui Ren, Nathan Soedjak, and Kewei Wang
 date: 2023-12-04
 venue: 'arXiv'
 paperurl: 
