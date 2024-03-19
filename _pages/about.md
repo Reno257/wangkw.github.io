@@ -16,7 +16,7 @@ I'm Kewei Wang (王可为), a fourth-year undergraduate student at [School of Ma
 
 News
 ------
-Waiting for the results of my PhD applications. Enjoying the winter vacation now!
+**2024.3** Decided to go to NYU Courant for PhD. 
 
 <!--
 For more info
