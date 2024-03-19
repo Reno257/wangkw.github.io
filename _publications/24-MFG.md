@@ -3,7 +3,7 @@ title: "Reconstructing a state-independent cost function in a mean-field game mo
 collection: publications
 permalink: /publication/24-MFG
 excerpt: ""
-author: Kui Ren, Nathan Soedjak, Kewei Wang, Hongyu Zhai
+author: Kui Ren, Nathan Soedjak, Kewei Wang, and Hongyu Zhai
 date: 2024-02-14
 venue: 'arXiv'
 paperurl: 
