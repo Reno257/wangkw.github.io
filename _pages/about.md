@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**This homepage is under construction.**
+<!--**This homepage is under construction.**-->
 
 About me
 ------
